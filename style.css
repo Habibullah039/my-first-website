@@ -142,3 +142,27 @@ middle-1-section h1 {
    
 }
 
+.community-section {
+
+    display: flex;
+    padding: 80px 10%;
+    background-image: url("images/shape-1.png");
+    background-repeat: no-repeat;
+    background-size: 11%;
+    background-position: 87% 380px;
+   
+}
+
+.community-left-aria {
+
+    width: 50%;
+}
+
+.community-left-aria img {
+
+    width: 70%;
+    display: block;
+    margin: auto;
+
+}
+
