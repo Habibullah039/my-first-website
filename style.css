@@ -55,3 +55,52 @@ a {
     border-radius: 4px;
 
 }
+
+middle-1-section h1 {
+
+    text-align: center;
+    margin:40px 0px 80px 0px;
+}
+
+.digit {
+
+    color:tomato;
+    
+}
+.img-box-section {
+
+    display: flex;
+    padding:20px 10% 50px;
+    
+}
+.img-box {
+    width:33%;
+    text-align: center;
+    padding-bottom: 50px;        
+}
+.box-1 {
+
+    background-color: #00ffaa25;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.box-2 {
+
+    background-color: #cc00ff1a;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.box-3 {
+    background-color: #f9e79f98;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.img-box p {
+
+    margin: 0px 40px;
+    color:#000000e0;
+    font-weight: 700px;
+}
+.img-box img {
+    width:30%;
+}
