@@ -166,3 +166,28 @@ middle-1-section h1 {
 
 }
 
+.mission-aria {
+
+    text-align: center;
+    background-color: #2C3E50;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    
+}
+
+.mission-aria h2 {
+
+    color: #ffffff;
+}
+.footer-digit {
+
+    color:#c58d13;
+}
+
+.mission-aria p{
+
+    color: rgb(87, 110, 151);
+    margin-left: 80px;
+}
+
+
