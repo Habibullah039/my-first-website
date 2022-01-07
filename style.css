@@ -104,3 +104,41 @@ middle-1-section h1 {
 .img-box img {
     width:30%;
 }
+
+.develop-section {
+
+    display: flex;
+    padding: 50px 10%;
+    background-image: url("images/shape-1.png");
+    background-repeat: no-repeat;
+    background-size: 13%;
+    background-position: 6% 150px;
+}
+
+.develop-left-aria {
+
+    width: 50%;
+}
+
+.develop-left-aria img {
+
+    width: 75%;
+
+}
+ h2{
+
+   font-size: 37px;
+   font-weight: 700px;
+   margin-bottom:-15px;
+}
+.documentation {
+
+    margin-top: 40px;
+}
+
+.documentation  a {
+
+    background-color: rgb(128, 43, 226);
+   
+}
+
